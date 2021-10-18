@@ -1,0 +1,12 @@
+name: shiny_weather_2
+title: shiny_weather_2
+username:
+account: hhsieh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3812413
+bundleId: 4365280
+url: https://hhsieh.shinyapps.io/shiny_weather_2/
+when: 1616095133.99409
+asMultiple: FALSE
+asStatic: FALSE
